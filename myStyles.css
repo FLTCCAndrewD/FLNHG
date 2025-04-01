@@ -1,0 +1,25 @@
+body{
+	color: #000000;
+	background: #ADD8E6;
+}	
+
+
+a:link, a:visited{
+	background-color: orange;
+	color: blue;
+}
+
+
+
+.sectionText{
+	color: blue;
+	text-align: center;
+	font-size: 12pt;
+	
+}
+
+.leftNav{
+	color: black;
+	text-align: left;
+	font-size: 14pt;
+}	
